@@ -1,0 +1,2 @@
+# 3D-Assessment-of-Spontaneous-Shunting-for-Predicting-Overt-Hepatic-Encephalopathy-Before-TIPS
+Overt hepatic encephalopathy (HE) limits TIPS application in cirrhotic patients with variceal bleeding and refractory ascites. This study built a 3D pipeline to evaluate spontaneous portosystemic shunts (SPSS), improving prediction of post-TIPS overt HE and supporting clinical decision-making for TIPS.
